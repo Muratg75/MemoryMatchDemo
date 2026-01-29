@@ -50,14 +50,14 @@ Category Selection: You can choose one of the following categories: Words, Fruit
 
 ## Gameplay
 
-  Select a category and difficulty level from the main menu
+-    Select a category and difficulty level from the main menu
 
-Memorize the cards for 5 seconds
+-    Memorize the cards for 5 seconds
 
-Match the cards by tapping on them
+-    Match the cards by tapping on them
 
-Complete the game by matching all cards
+-    Complete the game by matching all cards
 
-## You can try in on demo page
+## You can try it on demo page
 
   https://muratg75.github.io/MemoryMatchDemo/
